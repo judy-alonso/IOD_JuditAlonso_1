@@ -57,16 +57,24 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 7cd96f7653e1f43cf81a9ab6c16e4ad4, type: 2}
     - target: {fileID: 2049891634531694084, guid: f1777feaad813489bab21bc01614d28a, type: 3}
       propertyPath: m_Name
-      value: Horse (1) Variant
+      value: GrayHorse
       objectReference: {fileID: 0}
     - target: {fileID: 3181258816371978123, guid: f1777feaad813489bab21bc01614d28a, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 7cd96f7653e1f43cf81a9ab6c16e4ad4, type: 2}
+    - target: {fileID: 3626233243858705081, guid: f1777feaad813489bab21bc01614d28a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9c8a16834881b468e9e3d2b7c3f2da83, type: 2}
     - target: {fileID: 3704449719650162387, guid: f1777feaad813489bab21bc01614d28a, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 7cd96f7653e1f43cf81a9ab6c16e4ad4, type: 2}
+    - target: {fileID: 5230512616156948978, guid: f1777feaad813489bab21bc01614d28a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9c8a16834881b468e9e3d2b7c3f2da83, type: 2}
     - target: {fileID: 5231130552899409716, guid: f1777feaad813489bab21bc01614d28a, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
