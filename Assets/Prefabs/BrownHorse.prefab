@@ -1,5 +1,62 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4034009877572224355
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3888775146515553252}
+    m_Modifications:
+    - target: {fileID: 6565391605066725275, guid: ba4284a1d51ca403cb3d1fa88d5c5844, type: 3}
+      propertyPath: m_Name
+      value: Saddlebag
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601969366189864115, guid: ba4284a1d51ca403cb3d1fa88d5c5844, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601969366189864115, guid: ba4284a1d51ca403cb3d1fa88d5c5844, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601969366189864115, guid: ba4284a1d51ca403cb3d1fa88d5c5844, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601969366189864115, guid: ba4284a1d51ca403cb3d1fa88d5c5844, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601969366189864115, guid: ba4284a1d51ca403cb3d1fa88d5c5844, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601969366189864115, guid: ba4284a1d51ca403cb3d1fa88d5c5844, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601969366189864115, guid: ba4284a1d51ca403cb3d1fa88d5c5844, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601969366189864115, guid: ba4284a1d51ca403cb3d1fa88d5c5844, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601969366189864115, guid: ba4284a1d51ca403cb3d1fa88d5c5844, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601969366189864115, guid: ba4284a1d51ca403cb3d1fa88d5c5844, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601969366189864115, guid: ba4284a1d51ca403cb3d1fa88d5c5844, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ba4284a1d51ca403cb3d1fa88d5c5844, type: 3}
 --- !u!1001 &4216027866231259299
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -57,7 +114,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 9c5db8ab2ca7f4d1ebc1d949811c9393, type: 2}
     - target: {fileID: 2049891634531694084, guid: f1777feaad813489bab21bc01614d28a, type: 3}
       propertyPath: m_Name
-      value: Horse Variant
+      value: BrownHorse
       objectReference: {fileID: 0}
     - target: {fileID: 3175890008202573293, guid: f1777feaad813489bab21bc01614d28a, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -85,3 +142,8 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 9c5db8ab2ca7f4d1ebc1d949811c9393, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1777feaad813489bab21bc01614d28a, type: 3}
+--- !u!4 &3888775146515553252 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1114046508504816455, guid: f1777feaad813489bab21bc01614d28a, type: 3}
+  m_PrefabInstance: {fileID: 4216027866231259299}
+  m_PrefabAsset: {fileID: 0}
